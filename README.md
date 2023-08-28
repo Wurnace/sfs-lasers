@@ -1,2 +1,2 @@
-# sfs-lasers
-lasers for SFS!
+# SFS-lasers
+Lasers for SFS!
