@@ -1,5 +1,9 @@
 # SFS-lasers
 Lasers for SFS!
+
+# Cloning
+Only use the lasers.pack file when cloning the repository - the "postmac" file is out of date and used for another purpose
+
 # Parts
 **The TITAN LASER!**
 
